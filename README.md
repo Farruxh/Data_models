@@ -1,0 +1,2 @@
+This project showcases my journey in learning how to model data using Mongoose for MongoDB at an industry level. It includes data models for three different domains: todos, hospital management, and e-commerce. Through this project, I've explored the capabilities and flexibility of Mongoose in creating robust data models. While this marks the beginning of my learning path, the project reflects a solid understanding of why and how Mongoose is utilized for efficient data modeling.
+
